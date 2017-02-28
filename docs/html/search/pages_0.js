@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['wavetable_2dsynthesis',['Wavetable-Synthesis',['../index.html',1,'']]]
+  ['examples',['examples',['../md_additional_pages_examples.html',1,'']]]
 ];

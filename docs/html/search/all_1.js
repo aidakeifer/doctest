@@ -5,5 +5,6 @@ var searchData=
   ['env_5fdelay',['env_delay',['../class_audio_synth_wavetable.html#a9be61667f0c8a5b1bdf4bd261b6860e0',1,'AudioSynthWavetable']]],
   ['env_5fhold',['env_hold',['../class_audio_synth_wavetable.html#a126b041c14df4d031fc8faa3dbd2ba50',1,'AudioSynthWavetable']]],
   ['env_5frelease',['env_release',['../class_audio_synth_wavetable.html#a0aaef84c08f2462c5b439647e5df5951',1,'AudioSynthWavetable']]],
-  ['env_5fsustain',['env_sustain',['../class_audio_synth_wavetable.html#a0ad4caafe0ddd548005d99272c250b22',1,'AudioSynthWavetable']]]
+  ['env_5fsustain',['env_sustain',['../class_audio_synth_wavetable.html#a0ad4caafe0ddd548005d99272c250b22',1,'AudioSynthWavetable']]],
+  ['examples',['examples',['../md_additional_pages_examples.html',1,'']]]
 ];
